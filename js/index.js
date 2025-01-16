@@ -178,24 +178,24 @@ let userCitizens = [];
 let marketplaceItems = [
   {
     id: 1,
-    name: "Gold $BIT",
+    name: "Gold $PXLVL",
     description:
-      "Popular $BIT storage method in village, Gold $BIT is always equal to 1000$ BIT",
+      "Popular $PXLVL storage method in village, Gold $PXLVL is always equal to 1000$ $PXLVL",
     price: 1000,
     image: "p11.png",
   },
   {
     id: 2,
-    name: "Silver $BIT",
+    name: "Silver $PXLVL",
     description:
-      "Popular $BIT storage method in village, Silver $BIT is always equal to 100$ BIT",
+      "Popular $PXLVL storage method in village, Silver $PXLVL is always equal to 100$ $PXLVL",
     price: 100,
     image: "p2.png",
   },
   {
     id: 3,
     name: "Experience",
-    description: "Boost your profile leaderboard rank in $BIT verse.",
+    description: "Boost your profile leaderboard rank in $PXLVL verse.",
     price: 500,
     image: "p3.png",
   },
